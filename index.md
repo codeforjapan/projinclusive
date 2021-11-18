@@ -21,6 +21,7 @@
 ### 参加方法
 
 Code for JapanのSlackから、どなたでも参加できます
+
 [Slackに参加する](https://cfj.slack.com/join/shared_invite/zt-w2soa7jo-ZhVLNk5HjBMYm1GD72i36g#/shared-invite/email)
 
 
