@@ -17,3 +17,4 @@ Code for JapanのSlackから、どなたでも参加できます
 ### 連絡
 
 - shunsuke.takagi@civichat.jp
+- k.shiratori@ipu-japan.ac.jp
