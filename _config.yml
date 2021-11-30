@@ -6,6 +6,6 @@ defaults:
     path: ""
     values:
       image:
-        path: https://i.gyazo.com/86b4844d736e4cfc8143d493a8e7c31d.png
+        path: /assets/img.png
         height: 630
         width: 1200
