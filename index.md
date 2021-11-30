@@ -3,7 +3,7 @@
 
 このプロジェクトは、[Code for Japan](https://www.code4japan.org/)のproj-povertyチャンネルで生まれた、「貧困に備えるための教育」を模索していくものです。
 現在は包摂研究会の中では防窮訓練プロジェクトというものが進められています。
-<img src="https://i.gyazo.com/86b4844d736e4cfc8143d493a8e7c31d.png">
+<img src="/assets/img.png">
 
 
 ### 「防窮訓練プロジェクト」とはなんですか？
