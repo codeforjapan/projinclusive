@@ -4,6 +4,9 @@
 このプロジェクトは、[Code for Japan](https://www.code4japan.org/)のproj-povertyチャンネルで生まれた、「貧困に備えるための教育」を模索していくものです。
 
 ### 「防窮訓練」とはなんですか？
+
+[![Image from Gyazo](https://i.gyazo.com/86b4844d736e4cfc8143d493a8e7c31d.png)](https://gyazo.com/86b4844d736e4cfc8143d493a8e7c31d)
+
 現状の問題点
 - 多くの若者が、「生活保護」などの知識がない
 - 生活保護という用語を知らない層も一定層いる
