@@ -1,11 +1,3 @@
+title: 包摂研究会
+discription: 包摂研究会（proj-poverty)のHPです
 theme: jekyll-theme-minimal
-twitter:
-  username: tkgshn
-defaults:
-  - scope:
-    path: ""
-    values:
-      image:
-        path: /assets/img.png
-        height: 630
-        width: 1200
