@@ -2,10 +2,11 @@
 
 
 このプロジェクトは、[Code for Japan](https://www.code4japan.org/)のproj-povertyチャンネルで生まれた、「貧困に備えるための教育」を模索していくものです。
+「包摂研究会」という団体を作り、その中で自律分散的にプロジェクトを進めていきます。
+<img src="https://i.gyazo.com/86b4844d736e4cfc8143d493a8e7c31d.png">
+
 
 ### 「防窮訓練」とはなんですか？
-
-[![Image from Gyazo](https://i.gyazo.com/86b4844d736e4cfc8143d493a8e7c31d.png)](https://gyazo.com/86b4844d736e4cfc8143d493a8e7c31d)
 
 現状の問題点
 - 多くの若者が、「生活保護」などの知識がない
@@ -18,17 +19,18 @@
 
 ### 近況
 
-[Scrapbox](https://scrapbox.io/c4j/proj-poverty)をご覧ください
-
+- [Scrapbox](https://scrapbox.io/c4j/proj-poverty)をご覧ください
+- Code for Japanの週末プロジェクト「[Social Hack Day](https://hackday.code4japan.org/)」でも隔週で開催しています
 
 ### 参加方法
 
-Code for JapanのSlackから、どなたでも参加できます
+このプロジェクトは限られた団体ではなく、誰もが手を動かすことができます。
+Code for JapanのSlackから、どなたでも参加できます。"#proj-poverty"というチャンネルを見つけてみてください！
 
 [Slackに参加する](https://cfj.slack.com/join/shared_invite/zt-w2soa7jo-ZhVLNk5HjBMYm1GD72i36g#/shared-invite/email)
 
 
-### 連絡
+### 連絡先
 
 - shunsuke.takagi@civichat.jp
 - k.shiratori@ipu-japan.ac.jp
