@@ -27,9 +27,7 @@
 ## 包摂研究会で公開しているデータに関して
 原則、このコンソーシアムで公開しているすべての資料・データ等は**営利・非営利問わず**ご自由にお使いいただけます。
 
-しかし、「資料・データ・ソフトウェアの価値を、実質的にそのまま提供するようなサービス」で利益を得ての使用は禁止します。（詳しくは [LICENSE]() を参照）
-
-
+しかし、「資料・データ・ソフトウェアの価値を、実質的にそのまま提供するようなサービス」で利益を得ての使用は禁止します。（詳しくは [LICENSE](https://github.com/tkgshn/projpoverty/blob/gh-pages/LICENCE) を参照）
 
 
 ## 取材等の連絡先
@@ -39,4 +37,4 @@
 - k.shiratori@ipu-japan.ac.jp
 
 ## スポンサー
-<a href="https://civichat.jp" target="_blank"><img src="https://github.com/tkgshn/projpoverty/blob/gh-pages/assets/sponsor/civichat.png" /></a>
+<a href="https://civichat.jp" target="_blank"><img src="https://i.gyazo.com/f87d90dc0a7321def64263257197b0e7.png" /></a>
