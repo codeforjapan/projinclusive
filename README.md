@@ -9,8 +9,8 @@
 
 
 ## 進行中のプロジェクト
-- [防窮訓練](https://github.com/tkgshn/projpoverty/boukyuukunren.html)
-- [内閣官房チャットボットのデータ全部抜く](https://github.com/tkgshn/projpoverty/naikakuhukannbou.html)
+- [防窮訓練](https://tkgshn.github.io/projpoverty/boukyuukunnren)
+- [内閣官房チャットボットのデータ全部抜く](https://tkgshn.github.io/projpoverty/boukyuukunnren)
 
 ## プロジェクトに貢献する方法
 誰でも参加できます。隔週で大まかな目標の合意を形成し、基本的には非同期でコミュニケーションを取り合って進めています。大いなる力には大いなる責任が伴うことを認識し、[ベルリン行動規範](https://berlincodeofconduct.org/ja/)に従ってください。
@@ -35,6 +35,3 @@
 
 - shunsuke.takagi@civichat.jp
 - k.shiratori@ipu-japan.ac.jp
-
-## スポンサー
-<a href="https://civichat.jp" target="_blank"><img src="https://i.gyazo.com/f87d90dc0a7321def64263257197b0e7.png" /></a>
