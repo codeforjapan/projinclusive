@@ -1,57 +1,49 @@
-## 包摂研究会のページへようこそ
+# 包摂研究会のページへようこそ
+
+コロナ禍により、職場と家庭の融合が進んだ結果としての「虐待の深刻化」や介護難のほか、孤立等が急拡大した今、格差が拡大し、差別が加速する「分断の世紀」に差し掛かろうとしています
+
+ニューノーマルを見据え、今までのワークスタイルを見直すことは不可欠です。
+
+そのため、マルチセクターが連携し、貧困拡大を防ぐための手立てを研究・開発・社会実装を目指す「包摂研究会」を発足させました
 
 
-このプロジェクトは、[Code for Japan](https://www.code4japan.org/)のproj-povertyチャンネルで生まれた、「貧困に備えるための教育」を模索していくものです。
-現在は包摂研究会の中では防窮訓練プロジェクトというものが進められています。
 
-<img src="https://i.gyazo.com/961a3680f9bd37ccc9c6a72be6d69a7f.jpg">
-この包摂研究会は、Robo Co-op, 東京大学未来ビジョン研究センター, Code for Japan, Civichatらが中心となり、自律分散的にプロジェクトを進めていきます。
+## 進行中のプロジェクト
+- [防窮訓練](https://github.com/tkgshn/projpoverty/master/boukyuukunren.html)
+- [内閣官房チャットボットのデータ全部抜く](https://github.com/tkgshn/projpoverty/master/naikakuhukannbou.html)
 
+## プロジェクトに貢献する方法
+誰でも参加できます。隔週で大まかな目標の合意を形成し、基本的には非同期でコミュニケーションを取り合って進めています。大いなる力には大いなる責任が伴うことを認識し、[ベルリン行動規範](https://berlincodeofconduct.org/ja/)に従ってください。
 
-### 「防窮訓練プロジェクト」とはなんですか？
+### 進め方
 
-普段から困窮に備えておくことで、いざ自分がその状況になった際に適切な支援制度などを利用できるようにする訓練です。
-
-現状の問題点
-- 多くの若者が、「生活保護」などの知識がない
-- 生活保護という用語を知らない層も一定層いる
-- **現状は貧困に陥りそう・陥った時の備えがなく、”予防なき治療”になっていないか？**
-
-防災訓練があるなら、防窮訓練があっても良いのではないか
-- 防災訓練＝災害に遭遇しても命を守る
-- 防窮訓練＝貧困に陥っても命を守る
-
-### 活動の様子
-
-- 内閣官房孤独・孤立対策担当室が先日公開した、[支援制度を探すためのツール](https://notalone-cas.go.jp/)のデータを有志で洗い出し、公開しました。
-	- [内閣官房チャットボットのオープンデータ](https://docs.google.com/spreadsheets/d/1oC0SS0gzlQYe7yYcw3CUxYeia6sb5LzNWNDDF7oV3Fk/edit?usp=sharing)
-
-- これらの制度データは、CPSV-Jという規格と互換性があります
-	- CPSVの概要については、内閣府官房 政府CIO上席補佐官 平本さんの資料を参照ください
-		- [210828CPSV](https://docs.google.com/presentation/d/1WWESTNDG-Z6NhY6JcZc49uR4YkXv3Bbn/edit?rtpof=true&sd=tru)
-		- 関連: [公共制度の機械可読フォーマットまとめ](https://scrapbox.io/c4j/%E5%85%AC%E5%85%B1%E5%88%B6%E5%BA%A6%E3%81%AE%E6%A9%9F%E6%A2%B0%E5%8F%AF%E8%AA%AD%E3%83%95%E3%82%A9%E3%83%BC%E3%83%9E%E3%83%83%E3%83%88%E3%81%BE%E3%81%A8%E3%82%81)
+- 大まかな方向性に関しては、Social hack dayで合意形成をするほか、非同期で[Slack](https://cfj.slack.com/join/shared_invite/zt-w2soa7jo-ZhVLNk5HjBMYm1GD72i36g#/shared-invite/email)や[Scrapbox](https://scrapbox.io/c4j/proj-poverty)などを利用して進めています
+	- Code for japanのSlackの中にある"#proj-poverty"というチャンネルに参加してください
+- コードや資料などのアセットは、GitHubのIssueを中心に議論を進めています
 
 
-- このデータを活用した第一弾として、チャットボットの質問に回答することで自分に合った制度がわかる「Civichat」が全国の公共制度に対応しました
-	- [https://civichat.jp](https://civichat.jp)
-<blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="ja" dir="ltr">日経SDGsフェスで発表した「包摂研究会」というワーキンググループで、内閣官房が先日公開したツールのデータを洗い出し、オープンデータにする活動を進めています。<br><br>そのデータを活用した第一弾として、<a href="https://twitter.com/civichat?ref_src=twsrc%5Etfw">@civichat</a> が日本全国で使えるようになりました！📱<br><br>LINEで試す<br>⏩ <a href="https://t.co/9XJ5ctLieB">https://t.co/9XJ5ctLieB</a> <a href="https://t.co/iRZVYAQsvI">pic.twitter.com/iRZVYAQsvI</a></p>&mdash; Civichat（シビチャット） (@civichat) <a href="https://twitter.com/civichat/status/1465604261505474566?ref_src=twsrc%5Etfw">November 30, 2021</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+「何をしていいのかわからないけど貢献してみたい！」という方は、Code for Japanが主催する[Social Hack Day](https://hackday.code4japan.org/)のタイミングで参加するのがオススメです。
+
+## 包摂研究会で公開しているデータに関して
+原則、このコンソーシアムで公開しているすべての資料・データ等は**営利・非営利問わず**ご自由にお使いいただけます。
+
+しかし、「資料・データ・ソフトウェアの価値を、実質的にそのまま提供するようなサービス」で利益を得ての使用は禁止します。（詳しくは [LICENSE]() を参照）
 
 
-### 近況
-
-- [Scrapbox](https://scrapbox.io/c4j/proj-poverty)をご覧ください
-- Code for Japanの週末プロジェクト「[Social Hack Day](https://hackday.code4japan.org/)」でも隔週で開催しています
-
-### 参加方法
-
-このプロジェクトは限られた団体ではなく、誰もが手を動かすことができます。
-Code for JapanのSlackから、どなたでも参加できます。"#proj-poverty"というチャンネルを見つけてみてください！
-
-[Slackに参加する](https://cfj.slack.com/join/shared_invite/zt-w2soa7jo-ZhVLNk5HjBMYm1GD72i36g#/shared-invite/email)
 
 
-### 連絡先
+## 取材等の連絡先
+「防窮訓練」や「シビックテック」等の取り組みを紹介したい！というメディアの関係者などがいればこちらのメールアドレス宛に連絡してください。Code for JapanのSlack内のproj-povertyでも問題ありません。
 
 - shunsuke.takagi@civichat.jp
 - k.shiratori@ipu-japan.ac.jp
+
+## スポンサー
+<a href="https://opencollective.com/jekyll/sponsor/0/website" target="_blank"><img src="https://opencollective.com/jekyll/sponsor/0/avatar.svg" /></a>
+<a href="https://opencollective.com/jekyll/sponsor/1/website" target="_blank"><img src="https://opencollective.com/jekyll/sponsor/1/avatar.svg" /></a>
+<a href="https://opencollective.com/jekyll/sponsor/2/website" target="_blank"><img src="https://opencollective.com/jekyll/sponsor/2/avatar.svg" /></a>
+<a href="https://opencollective.com/jekyll/sponsor/3/website" target="_blank"><img src="https://opencollective.com/jekyll/sponsor/3/avatar.svg" /></a>
+<a href="https://opencollective.com/jekyll/sponsor/4/website" target="_blank"><img src="https://opencollective.com/jekyll/sponsor/4/avatar.svg" /></a>
+<a href="https://opencollective.com/jekyll/sponsor/5/website" target="_blank"><img src="https://opencollective.com/jekyll/sponsor/5/avatar.svg" /></a>
+<a href="https://opencollective.com/jekyll/sponsor/6/website" target="_blank"><img src="https://opencollective.com/jekyll/sponsor/6/avatar.svg" /></a>
+<a href="https://opencollective.com/jekyll/sponsor/7/website" target="_blank"><img src="https://opencollective.com/jekyll/sponsor/7/avatar.svg" /></a>
