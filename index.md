@@ -9,8 +9,8 @@
 
 
 ## 進行中のプロジェクト
-- [防窮訓練](https://github.com/tkgshn/projpoverty/master/boukyuukunren.html)
-- [内閣官房チャットボットのデータ全部抜く](https://github.com/tkgshn/projpoverty/master/naikakuhukannbou.html)
+- [防窮訓練](https://tkgshn.github.io/projpoverty/naikakuhukannbou)
+- [内閣官房チャットボットのデータ全部抜く](https://tkgshn.github.io/projpoverty/naikakuhu)
 
 ## プロジェクトに貢献する方法
 誰でも参加できます。隔週で大まかな目標の合意を形成し、基本的には非同期でコミュニケーションを取り合って進めています。大いなる力には大いなる責任が伴うことを認識し、[ベルリン行動規範](https://berlincodeofconduct.org/ja/)に従ってください。
