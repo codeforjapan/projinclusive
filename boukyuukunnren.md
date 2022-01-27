@@ -9,7 +9,7 @@ lang: ja_JP
 
 | お知らせ |
 | ------------- |
-| [防窮訓練がNHKの「首都圏情報 ネタドリ!」で放送されることになりました!](https://codeforjapan.github.io/projpoverty/netadori) |
+| [防窮訓練がNHKの「首都圏情報 ネタドリ!」で放送されることになりました!](/projpoverty/netadori) |
 
 
 ## 「防窮訓練」とは
