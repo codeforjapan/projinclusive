@@ -9,8 +9,8 @@
 
 
 ## 進行中のプロジェクト
-- [防窮訓練](https://codeforjapan.github.io/projpoverty/boukyuukunnren)
-- [内閣官房チャットボットのデータ全部抜く](https://codeforjapan.github.io/projpoverty/boukyuukunnren)
+- [防窮訓練](/boukyuukunnren)
+- [内閣官房チャットボットのデータ全部抜く](/boukyuukunnren)
 
 ## プロジェクトに貢献する方法
 誰でも参加できます。隔週で大まかな目標の合意を形成し、基本的には非同期でコミュニケーションを取り合って進めています。大いなる力には大いなる責任が伴うことを認識し、[ベルリン行動規範](https://berlincodeofconduct.org/ja/)に従ってください。
