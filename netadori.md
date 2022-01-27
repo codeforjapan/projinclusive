@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: 防窮訓練がNHKの「首都圏情報 ネタドリ!」で放送されることになりました!
 description: 包摂研究会が取り組んでいる、困窮状況に陥る前にあらかじめ備えておくカリキュラム「防窮訓練」がNHKのネタドリ!で放送されることになりました
 lang: ja_JP
