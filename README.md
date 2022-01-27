@@ -9,8 +9,8 @@
 
 
 ## 進行中のプロジェクト
-- [防窮訓練](https://tkgshn.github.io/projpoverty/boukyuukunnren)
-- [内閣官房チャットボットのデータ全部抜く](https://tkgshn.github.io/projpoverty/boukyuukunnren)
+- [防窮訓練](/projpoverty/boukyuukunnren)
+- [内閣官房チャットボットのデータ全部抜く](/projpoverty/naikakukanbou)
 
 ## プロジェクトに貢献する方法
 誰でも参加できます。隔週で大まかな目標の合意を形成し、基本的には非同期でコミュニケーションを取り合って進めています。大いなる力には大いなる責任が伴うことを認識し、[ベルリン行動規範](https://berlincodeofconduct.org/ja/)に従ってください。
@@ -27,7 +27,7 @@
 ## 包摂研究会で公開しているデータに関して
 原則、このコンソーシアムで公開しているすべての資料・データ等は**営利・非営利問わず**ご自由にお使いいただけます。
 
-しかし、「資料・データ・ソフトウェアの価値を、実質的にそのまま提供するようなサービス」で利益を得ての使用は禁止します。（詳しくは [LICENSE](https://github.com/tkgshn/projpoverty/blob/gh-pages/LICENCE) を参照）
+しかし、「資料・データ・ソフトウェアの価値を、実質的にそのまま提供するようなサービス」で利益を得ての使用は禁止します。（詳しくは [LICENSE](https://github.com/codeforjapan/projpoverty/blob/gh-pages/LICENCE) を参照）
 
 
 ## 取材等の連絡先
