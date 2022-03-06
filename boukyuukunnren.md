@@ -9,7 +9,7 @@ lang: ja_JP
 
 | お知らせ |
 | ------------- |
-| [防窮訓練がNHKの「首都圏情報 ネタドリ!」で放送されることになりました!](/projpoverty/netadori) |
+| [防窮訓練がNHKの「首都圏情報 ネタドリ!」で放送されることになりました!](/netadori) |
 
 
 ## 「防窮訓練」とは
@@ -30,5 +30,5 @@ lang: ja_JP
 誰が・どんな状況で、いつ困窮に陥るかわからない今だからこそ、このような取り組みが必要だと考えます。
 
 ### 資料
-詳細は、東京大学未来ビジョン研究センター客員教授の白取の資料を参照してください
+詳細は、東京大学未来ビジョン研究センター客員の白取の資料を参照してください
 <iframe class="speakerdeck-iframe" frameborder="0" src="https://speakerdeck.com/player/b00db69e00604b3482e4092396a1a71d" title="防窮訓練" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="border: 0px; background: padding-box padding-box rgba(0, 0, 0, 0.1); margin: 0px; padding: 0px; border-radius: 6px; box-shadow: rgba(0, 0, 0, 0.2) 0px 5px 40px; width: 560px; height: 314px;" data-ratio="1.78343949044586"></iframe>
