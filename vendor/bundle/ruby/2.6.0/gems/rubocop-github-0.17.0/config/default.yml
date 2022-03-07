@@ -1,0 +1,2 @@
+# Inherit from default_deprecated until 1.0
+inherit_from: default_deprecated.yml

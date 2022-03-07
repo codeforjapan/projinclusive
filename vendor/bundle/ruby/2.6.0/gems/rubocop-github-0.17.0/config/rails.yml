@@ -1,0 +1,2 @@
+# Inherit from rails_deprecated until 1.0
+inherit_from: rails_deprecated.yml
